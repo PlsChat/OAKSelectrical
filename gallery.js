@@ -21,7 +21,13 @@
 window.OAKS_PHOTOS = {
 
   fitout: [
-    // ["photo-000.jpg", "Caption goes here"],
+    ["photo-000.jpg", "Completed food-to-go servery and chilled display, ready for opening day"],
+    ["photo-001.jpg", "Feature neon and illuminated signage over a new retail servery"],
+    ["photo-002.jpg", "Commercial kitchen fit-out — extraction canopy, wash-down sink and power"],
+    ["photo-003.jpg", "Stainless extraction canopy with integrated lighting over the cook line"],
+    ["photo-004.jpg", "Distribution board installation and final connections on a live retail fit-out"],
+    ["photo-005.jpg", "Back-of-house plant room — power supply and distribution"],
+    ["photo-006.jpg", "Back-of-house stores — lighting, power and containment"]
   ],
 
   temporary: [
