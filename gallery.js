@@ -31,6 +31,12 @@ window.OAKS_PHOTOS = {
   ],
 
   temporary: [
+    ["photo-007.jpg", "Mobile temporary power board — 240V, 16A and 32A outlets with task lighting"],
+    ["photo-008.jpg", "Portable distribution board feeding multiple socket circuits on site"],
+    ["photo-009.jpg", "Testing and commissioning a temporary supply in an occupied building"],
+    ["photo-010.jpg", "Temporary supply and first-fix cabling during a strip-out"],
+    ["photo-011.jpg", "Temporary lighting and power keeping a live fit-out moving"],
+    ["photo-012.jpg", "Temporary lighting installed while ceiling works continue"]
   ],
 
   insurance: [
