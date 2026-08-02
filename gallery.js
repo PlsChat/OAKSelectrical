@@ -40,6 +40,11 @@ window.OAKS_PHOTOS = {
   ],
 
   insurance: [
+    ["photo-023.jpg", "Fully re-wired consumer unit with RCBO and surge protection, tested and certified"],
+    ["photo-024.jpg", "Commercial distribution board with individually labelled circuits and surge protection"],
+    ["photo-025.jpg", "New circuit run to a light switch during insurance reinstatement works"],
+    ["photo-026.jpg", "Scaffolding and temporary weather protection during major reinstatement works"],
+    ["photo-027.jpg", "Testing and inspection of the incoming supply and isolator during reinstatement"]
   ],
 
   renewables: [
