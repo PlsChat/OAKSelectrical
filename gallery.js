@@ -46,6 +46,12 @@ window.OAKS_PHOTOS = {
   ],
 
   firealarms: [
+    ["photo-013.jpg", "Addressable fire alarm control panel installed and commissioned to BS 5839"],
+    ["photo-014.jpg", "Multi-zone addressable fire alarm panel with zone plan, designed and installed to BS 5839"],
+    ["photo-015.jpg", "Conventional fire alarm panel and manual call point, supplied, installed and tested"],
+    ["photo-016.jpg", "Optical smoke detector fitted to a suspended ceiling grid"],
+    ["photo-017.jpg", "Apollo manual call point (break-glass) installed and zone-labelled"],
+    ["photo-018.jpg", "Fire alarm sounder bell providing audible warning"]
   ]
 
 };
