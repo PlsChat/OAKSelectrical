@@ -43,6 +43,10 @@ window.OAKS_PHOTOS = {
   ],
 
   renewables: [
+    ["photo-019.jpg", "Roof-mounted all-black solar PV array on a pitched tiled roof"],
+    ["photo-020.jpg", "Solar PV panels rail-mounted and clamped on a completed roof array"],
+    ["photo-021.jpg", "myenergi Zappi EV charge point installed with neat external cable containment"],
+    ["photo-022.jpg", "Solar PV array installed on a slate roof from scaffold access"]
   ],
 
   firealarms: [
